@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.product-image {
+  height: 300px;
+  width: 200px;
+}
+.product-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
